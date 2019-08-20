@@ -12,4 +12,3 @@ public class Plus2args {
                 System.exit(0);
         }
 }
-// EOL
